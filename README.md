@@ -1,5 +1,5 @@
 Hello, I'm Luca 👓  
-I am a _physics_ student from *Italy* 🍕.   
+I am a _physics_ student from *Italy* 🍕.  
 * Quantum Mechanics addicted $|\Psi \rangle $ 
 * Python lover 🐍    
 * C++ enjoyer 💻➕➕  
