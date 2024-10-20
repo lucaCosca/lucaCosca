@@ -1,6 +1,6 @@
 Hello, I'm Luca 👓  
 I am a _physics_ student from *Italy* 🍕.   
-* Quantum Mechanics addicted $| \text{⚛️ }\rangle $ 
+* Quantum Mechanics addicted $| \text{atom }\rangle $ 
 * Python lover 🐍    
 * C++ enjoyer 💻➕➕  
 * Julia learner 🔴🟢🟣 
